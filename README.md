@@ -1,5 +1,5 @@
 # powerbi-housing-listings
-Housing Market Metrics: Visualizations in Power BI
+Housing Market Metrics | Visualizations in Power BI
 - By Tanner Earsley
 - Created 6/25/2025
 
